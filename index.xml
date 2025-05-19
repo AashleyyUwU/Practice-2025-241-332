@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ИТ-сервисы для цифрового университета on Mospolytech</title>
+    <link>http://politech.org/</link>
+    <description>Recent content in ИТ-сервисы для цифрового университета on Mospolytech</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://politech.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Продвижение по дизайну</title>
+      <link>http://politech.org/posts/progress-3/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://politech.org/posts/progress-3/</guid>
+      <description>&lt;h3 id=&#34;что-сделано&#34;&gt;Что сделано:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Создание прототипа главных страниц приложения&lt;/li&gt;&#xA;&lt;li&gt;Радактирование страниц под дизайн IOS&lt;/li&gt;&#xA;&lt;li&gt;Итоговый дизайн четырех страниц&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;http://politech.org/images/auth.png&#34; alt=&#34;Авторизация&#34;&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;http://politech.org/images/profile.png&#34; alt=&#34;Профиль&#34;&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;http://politech.org/images/schedule.png&#34; alt=&#34;Расписание&#34;&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;img src=&#34;http://politech.org/images/progress.png&#34; alt=&#34;Успеваемость&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://politech.org/posts/&#34;&gt;← Вернуться ко всем новостям&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Начало разработки</title>
+      <link>http://politech.org/posts/progress-1/</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://politech.org/posts/progress-1/</guid>
+      <description>&lt;h3 id=&#34;что-сделано&#34;&gt;Что сделано:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Созвон/встреча с отделом дизайна и с отделом разработки&lt;/li&gt;&#xA;&lt;li&gt;Поиск референсов&lt;/li&gt;&#xA;&lt;li&gt;Выбор подходящих референсов&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://politech.org/posts/&#34;&gt;← Вернуться ко всем новостям&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Старт проекта</title>
+      <link>http://politech.org/posts/progress-2/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://politech.org/posts/progress-2/</guid>
+      <description>&lt;h3 id=&#34;что-сделано&#34;&gt;Что сделано:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Знакомство участников&lt;/li&gt;&#xA;&lt;li&gt;Формирование команды&lt;/li&gt;&#xA;&lt;li&gt;Распределение задач&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://politech.org/posts/&#34;&gt;← Вернуться ко всем новостям&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
